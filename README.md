@@ -1,16 +1,33 @@
-## Hi there 👋
 
-<!--
-**nitinnehra07/nitinnehra07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I am Nitin Nehra!
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- B.Tech CSE Student at K.R. Mangalam University, Gurugram (2026–2030).
+- Currently learning Python, HTML, CSS, Linux basics, and Git/GitHub.
+- Interested in Full-Stack Development and Software Development.
+
+## Technical Skills
+
+| Category | Technologies |
+|---|---|
+| Languages | Python |
+| Web Technologies | HTML, CSS |
+| Tools | Git, GitHub, VS Code |
+| Currently Learning | Linux Terminal |
+
+## Featured Projects
+
+- [CSE103 Lab – LAB 3](https://github.com/nitinnehra07/cse103-lab-LAB3)
+
+## Currently Working On
+
+- First-year CSE lab assignments.
+- Improving Python programming.
+- Learning web development.
+
+## Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/nitin-nehra-165707431/
+- Email: nehran557@gmail.com
+- GitHub: https://github.com/nitinnehra07
